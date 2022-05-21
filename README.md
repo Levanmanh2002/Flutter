@@ -1,4 +1,4 @@
-# bt_buoi1
+# Bài tập Flutter cơ bản
 
 A new Flutter project.
 
