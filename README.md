@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Bắt đầu
 
 Dự án này là một điểm khởi đầu cho một ứng dụng Flutter.
 
