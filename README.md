@@ -1,4 +1,4 @@
-# Bài tập Flutter cơ bản về Đăng Nhập - Đăng Ký
+# Bài tập Flutter cơ bản
 
 A new Flutter project.
 
@@ -8,7 +8,9 @@ Dự án này là một điểm khởi đầu cho một ứng dụng Flutter.
 
 Một số hình ảnh về sản phẩm trên :
 
-![Tux, the Linux mascot](/img/Login.png)
-![Tux, the Linux mascot](/img/Registration.png)
+![Tux, the Linux mascot](/img/1.png)
+![Tux, the Linux mascot](/img/2.png)
+![Tux, the Linux mascot](/img/3.png)
+
 
 Để được trợ giúp bắt đầu với Flutter, hãy xem tài liệu trực tuyến của chúng tôi, tài liệu này cung cấp các hướng dẫn, mẫu, hướng dẫn về phát triển thiết bị di động và tài liệu tham khảo.
